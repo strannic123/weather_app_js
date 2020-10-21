@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/bg.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 100px;
+}
+
+.card-body {
+    display: flex;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.card-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-text {
+    font-size: 22px;
+}
+
